@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="ed"
+                 name="EReader Detectie"
+                 start-page="ereader-detectie.md">
+
+    <toc-element topic="ereader-detectie.md"/>
+    <toc-element topic="1-Definiëren.md"/>
+    <toc-element topic="2-Observeren.md"/>
+    <toc-element topic="3-Theoretiseren.md"/>
+    <toc-element topic="4-Operationaliseren.md"/>
+    <toc-element topic="5-Testen.md"/>
+    <toc-element topic="6-Evalueren.md"/>
+    <toc-element topic="7-Conclusie.md"/>
+</instance-profile>

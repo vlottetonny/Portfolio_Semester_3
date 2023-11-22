@@ -1,0 +1,3 @@
+# 7. Conclusie
+
+Dit onderzoek heeft aangetoond dat het mogelijk is om eReaders effectief te detecteren voor een geoptimaliseerde webcontentlevering. De User-Agent String detectie bleek bijzonder succesvol, waarbij nauwkeurigheid en snelheid in de detectie van eReader-apparaten werden gegarandeerd. De resultaten benadrukken het belang van het aanpassen van webervaringen aan de unieke behoeften van verschillende apparaten. Door deze methode toe te passen, kan ik mijn website optimaliseren voor eReader-gebruikers, wat leidt tot een betere gebruikerservaring en toegankelijkheid. De bevindingen van dit onderzoek bieden waardevolle inzichten voor toekomstige ontwikkelingen en optimalisaties in webdesign en contentlevering.
