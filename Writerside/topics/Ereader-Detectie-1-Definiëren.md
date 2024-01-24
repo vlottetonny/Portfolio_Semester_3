@@ -10,14 +10,14 @@ IK weet nog niet goed hoe we eReaders kunnen herkennen wanneer ze verbinding mak
 Ik wil manieren vinden om te zien of iemand een eReader gebruikt. Dan kan ik de website zo maken dat eReader-gebruikers een code of QR-code zien, en andere bezoekers een plek krijgen om deze code in te voeren of te scannen.
 
 ## 1.4 Vraagstellingen
+### 1.4.1 Hoofdvraag
+- Hoe kunnen we eReader-apparaten effectief detecteren om webcontent te optimaliseren voor een verbeterde gebruikerservaring?
+
+### 1.4.2 Deelvragen
 - Welke manieren zijn er om te zien of iemand een eReader gebruikt?
 - Werken deze manieren goed voor alle soorten eReaders?
 - Hoe kunnen we deze manieren het beste gebruiken op een echte website?
 
-## 1.5 Hypotheses
-- Ik denk dat het kijken naar de informatie die het apparaat naar de website stuurt (zoals User-Agent String en Request Headers) beter zal werken dan te gokken op basis van wat het apparaat kan of hoe het zich gedraagt.
-- Misschien is het combineren van verschillende manieren om te checken nog beter.
-
-## 1.6 Belang van het Onderzoek
+## 1.5 Belang van het Onderzoek
 Als ik eReaders goed kan herkennen, kan ik zorgen dat iedereen de website makkelijk kan gebruiken, of ze nu een eReader of een ander apparaat hebben. Dit maakt mensen blijer met de website en ze zullen het fijner vinden om deze te gebruiken.
 

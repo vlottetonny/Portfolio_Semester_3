@@ -4,14 +4,14 @@
 
 <instance-profile id="ed"
                  name="EReader Detectie"
-                 start-page="ereader-detectie.md">
+                 start-page="Ereader-Detectie.md">
 
-    <toc-element topic="ereader-detectie.md"/>
-    <toc-element topic="1-Definiëren.md"/>
-    <toc-element topic="2-Observeren.md"/>
-    <toc-element topic="3-Theoretiseren.md"/>
-    <toc-element topic="4-Operationaliseren.md"/>
-    <toc-element topic="5-Testen.md"/>
-    <toc-element topic="6-Evalueren.md"/>
-    <toc-element topic="7-Conclusie.md"/>
+    <toc-element topic="Ereader-Detectie.md"/>
+    <toc-element topic="Ereader-Detectie-1-Definiëren.md"/>
+    <toc-element topic="Ereader-Detectie-2-Observeren.md"/>
+    <toc-element topic="Ereader-Detectie-3-Theoretiseren.md"/>
+    <toc-element topic="Ereader-Detectie-4-Operationaliseren.md"/>
+    <toc-element topic="Ereader-Detectie-5-Testen.md"/>
+    <toc-element topic="Ereader-Detectie-6-Evalueren.md"/>
+    <toc-element topic="Ereader-Detectie-7-Conclusie.md"/>
 </instance-profile>

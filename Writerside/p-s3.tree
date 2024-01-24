@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="p-s3"
+                 name="Portfolio - Semester 3"
+                 start-page="portfolio-semester-3.md">
+
+    <toc-element topic="portfolio-semester-3.md"/>
+    <toc-element topic="Onderzoeken.md"/>
+    <toc-element topic="Het-groepsproject-Colleak.md"/>
+    <toc-element topic="Individueel-Project-EpubTransmitter.md"/>
+    <toc-element topic="Zelfreflectie.md"/>
+</instance-profile>

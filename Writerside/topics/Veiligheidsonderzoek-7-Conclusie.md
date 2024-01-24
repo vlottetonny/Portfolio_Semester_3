@@ -1,0 +1,3 @@
+# 7. Conclusie
+
+Dit onderzoek heeft aangetoond dat het mogelijk is om bestanden veilig over te dragen tussen twee clients en een backend API met behulp van een eenmalige code. De eenmalige code methode bleek bijzonder succesvol, waarbij veiligheid en gebruiksvriendelijkheid in de overdracht van bestanden werden gegarandeerd. De resultaten benadrukken het belang van het balanceren tussen veiligheid en gebruiksvriendelijkheid in bestandsoverdracht systemen. Door deze methode toe te passen, kan ik mijn "EpubTransmitter" project optimaliseren voor gebruikers, wat leidt tot een betere gebruikerservaring en veiligheid. De bevindingen van dit onderzoek bieden waardevolle inzichten voor toekomstige ontwikkelingen en optimalisaties in bestandsoverdracht systemen.

@@ -1,0 +1,3 @@
+# Veiligheidsonderzoek naar het versturen van bestanden tussen apparaten 
+
+Dit onderzoeksrapport gaat in op het uitzoeken van manieren om veilig bestanden tussen twee clients en de backend api te versturen. Dit is belangrijk omdat ik een manier wil vinden om bestanden te versturen tussen apparaten die niet op hetzelfde netwerk zitten zonder dat er een derde partij deze bestanden kan zien. Het is belangrijk om veiligheid te garanderen omdat de bestanden die worden verstuurd met mijn applicatie gevoelige informatie kunnen bevatten.

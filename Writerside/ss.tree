@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="ss"
+                 name="Veiligheidsonderzoek"
+                 start-page="Veiligheidsonderzoek.md">
+
+    <toc-element topic="Veiligheidsonderzoek.md"/>
+    <toc-element topic="Veiligheidsonderzoek-1-Definiëren.md"/>
+    <toc-element topic="Veiligheidsonderzoek-2-Observeren.md"/>
+    <toc-element topic="Veiligheidsonderzoek-3-Theoretiseren.md"/>
+    <toc-element topic="Veiligheidsonderzoek-4-Operationaliseren.md"/>
+    <toc-element topic="Veiligheidsonderzoek-5-Testen.md"/>
+    <toc-element topic="Veiligheidsonderzoek-6-Evalueren.md"/>
+    <toc-element topic="Veiligheidsonderzoek-7-Conclusie.md"/>
+</instance-profile>
